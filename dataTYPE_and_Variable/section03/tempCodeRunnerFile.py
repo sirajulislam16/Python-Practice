@@ -1,0 +1,1 @@
+    print(f"{num} is odd number")
